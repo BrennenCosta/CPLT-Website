@@ -1,0 +1,36 @@
+*Website Under Construction*
+Author: Brennen Costa
+Organization: Chi Phi Lambda Theta
+
+
+Home
+About 
+History
+News
+Events
+Meet the Bros
+ -Tabbed for each year
+    -e.x. 2017, 2018, etc.
+ -Class
+ -Hometown
+ -Interests (3)
+ -Positions(past and current)
+ -use pics from Stevie K
+Someone design Chi Phi Lambda Theta Logo
+-------------------------------------------
+Website Components
+------------------
+-Meet the Brotherhood
+  ->Headshots
+  ->Descriptions
+    ->E-Board and Committee Chair Head Distinctions
+	->College Year and Major
+	->Greek Class
+	->About Me 
+	  ->Fun Facts/Hobbies/Etc.
+-Our Philanthropy
+  ->Boys and Girls Club
+    ->Mission Statement
+	->Pics of past events
+-Contact Us
+-About Us/Mission Statement
