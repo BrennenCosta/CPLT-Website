@@ -4,7 +4,7 @@ Organization: Chi Phi Lambda Theta
 
 
 Home
-About 
+About
 History
 News
 Events
@@ -17,6 +17,9 @@ Meet the Bros
  -Positions(past and current)
  -use pics from Stevie K
 Someone design Chi Phi Lambda Theta Logo
+Alumni Association
+  Headshots of active alumni
+  Alumni newsletter
 -------------------------------------------
 Website Components
 ------------------
@@ -26,7 +29,7 @@ Website Components
     ->E-Board and Committee Chair Head Distinctions
 	->College Year and Major
 	->Greek Class
-	->About Me 
+	->About Me
 	  ->Fun Facts/Hobbies/Etc.
 -Our Philanthropy
   ->Boys and Girls Club
