@@ -60,6 +60,17 @@ body {
   height: 500px;
 }
 
+/* Carousel base class for pages without carousel */
+.carousel2 {
+  height: 100px;
+  margin-bottom: 60px;
+}
+
+.carousel3 {
+  height: 100px;
+  margin-bottom: 60px;
+}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
